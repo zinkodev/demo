@@ -5,5 +5,6 @@ public class App {
     public static void main(String[] args) {
         System.out.println("Git Test!");
         System.out.println("change line!");
+        System.out.println("change Second line!");
     }
 }
